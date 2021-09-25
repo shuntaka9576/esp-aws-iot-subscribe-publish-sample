@@ -1,0 +1,7 @@
+.pio
+sdkconfig
+sdkconfig.old
+.DS_Store
+
+src/certs/*
+!src/certs/aws-root-ca.pem
